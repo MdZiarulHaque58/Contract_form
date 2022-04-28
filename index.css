@@ -1,0 +1,31 @@
+.main{
+    width: 900px;
+    margin: 0 auto;
+    
+}.top h1{
+    text-align: center;
+}
+.div-input{
+    width: 400px;
+    margin: 10px auto;
+}
+.div-input input{
+    width: 400px;
+    padding: 12px 5px;
+    border: 1px solid rgb(70, 70, 71);
+}
+.div-input textarea{
+    width: 400px;
+    border: 1px solid rgb(70, 70, 71);
+}
+.div-input button{
+    width: 400px;
+    background-color: rgb(7, 73, 73);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+}
+.top h1{
+    color: rgb(131, 24, 122);
+}
